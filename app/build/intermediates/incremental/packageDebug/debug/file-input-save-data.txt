@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon May 13 10:08:54 CDT 2019
+0.baseType=DIRECTORY
+0.base=/Users/jessica/Desktop/Camera2Demo/app/build/intermediates/transforms/dexMerger/debug/19
+0.path=classes.dex
+0.set=DEX
+count=1
